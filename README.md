@@ -1,4 +1,4 @@
-[![Android](https://img.shields.io/badge/platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/OWNER/REPO/releases/latest)
+[![Android](https://img.shields.io/badge/platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/LanKing/Givskud-Zoo-Denmark-Russian-Audioguide/releases/latest/download/Givskud-Zoo_RU.apk)
 [![APK downloads](https://img.shields.io/github/downloads/OWNER/REPO/total/Givskud-Zoo-RU.apk?style=flat-square&label=APK%20downloads&color=brightgreen)](https://github.com/OWNER/REPO/releases)
 [![Unofficial](https://img.shields.io/badge/translation-unofficial-orange?style=flat-square)](https://github.com/OWNER/REPO)
 
@@ -27,7 +27,7 @@
 ## 📱 Установка
 
 1. Удалите официальное приложение Givskud Zoo, если оно установлено.
-2. [Скачайте APK](https://github.com/LanKing/Givskud-Zoo-Denmark-Russian-Audioguide/releases/latest/download/Givskud-Zoo-RU.apk).
+2. [Скачайте APK](https://github.com/LanKing/Givskud-Zoo-Denmark-Russian-Audioguide/releases/latest/download/Givskud-Zoo_RU.apk).
 3. Разрешите установку приложений из неизвестных источников.
 4. Установите APK.
 5. В приложении выберите язык **«Русский»**.
