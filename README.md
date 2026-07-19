@@ -1,6 +1,6 @@
 [![Android](https://img.shields.io/badge/platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/LanKing/Givskud-Zoo-Denmark-Russian-Audioguide/releases/latest/download/Givskud_Zoo_RU.apk)
-[![APK downloads](https://img.shields.io/github/downloads/OWNER/REPO/total/Givskud-Zoo-RU.apk?style=flat-square&label=APK%20downloads&color=brightgreen)](https://github.com/OWNER/REPO/releases)
-[![Unofficial](https://img.shields.io/badge/translation-unofficial-orange?style=flat-square)](https://github.com/OWNER/REPO)
+[![APK downloads](https://img.shields.io/github/downloads/LanKing/Givskud-Zoo-Denmark-Russian-Audioguide/total/Givskud_Zoo_RU.apk?style=flat-square&label=APK%20downloads&color=brightgreen)](https://github.com/OWNER/REPO/releases)
+[![Unofficial](https://img.shields.io/badge/translation-unofficial-orange?style=flat-square)](https://github.com/LanKing/Givskud-Zoo-Denmark-Russian-Audioguide)
 
 # 🦁 Неофициальный русский аудиогид для Givskud Zoo (Android)
 > Неофициальный перевод, выполненный с помощью ИИ. Проект не связан с Givskud Zoo и не поддерживается администрацией зоопарка.
