@@ -27,7 +27,7 @@
 ## 📱 Установка
 
 1. Удалите официальное приложение Givskud Zoo, если оно установлено.
-2. [Скачайте APK](https://github.com/OWNER/REPO/releases/latest/download/Givskud-Zoo-RU.apk).
+2. [Скачайте APK](https://github.com/LanKing/Givskud-Zoo-Denmark-Russian-Audioguide/releases/latest/download/Givskud-Zoo-RU.apk).
 3. Разрешите установку приложений из неизвестных источников.
 4. Установите APK.
 5. В приложении выберите язык **«Русский»**.
