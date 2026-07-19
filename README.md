@@ -2,7 +2,7 @@
 [![APK downloads](https://img.shields.io/github/downloads/LanKing/Givskud-Zoo-Denmark-Russian-Audioguide/Givskud_Zoo_RU.apk?style=flat-square&label=APK%20downloads&color=brightgreen)](https://github.com/LanKing/Givskud-Zoo-Denmark-Russian-Audioguide/releases)
 [![Unofficial](https://img.shields.io/badge/translation-unofficial-orange?style=flat-square)](https://github.com/LanKing/Givskud-Zoo-Denmark-Russian-Audioguide)
 
-# 🦁 Неофициальный русский аудиогид для Givskud Zoo (Android)
+# 🦁 Неофициальный русский аудиогид для Givskud Zoo Zootopia Denmark (Android)
 > Неофициальный перевод, выполненный с помощью ИИ. Проект не связан с Givskud Zoo и не поддерживается администрацией зоопарка.
 
 ## Об аудиогиде
